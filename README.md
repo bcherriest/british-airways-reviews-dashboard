@@ -2,7 +2,7 @@
 
 > **Project Overview:** Uncovering what truly drives passenger satisfaction at British Airways—an interactive deep dive into customer reviews across cabin classes, aircraft fleets, and global routes.
 
-👉 **[View Interactive Dashboard on Tableau Public]([YOUR_TABLEAU_PUBLIC_URL_HERE](https://public.tableau.com/views/BritishAirways_Reviews_Dashboard/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
+👉 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/BritishAirways_Reviews_Dashboard/Dashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))**
 
 ---
 
